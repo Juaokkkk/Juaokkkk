@@ -1,10 +1,19 @@
-esentação
+# Apresentação
 
 ## Olá! 👋
 
 Meu nome é João Alfredo, e estou em busca de oportunidades. Atualmente, estou focado em me tornar full stack.
 
+
 ### Tecnologias que utilizo:
+
+- HTML, CSS, JS e PHP
+- Framework utilizado no momento: Laravel
+
+### Biblioteca de estilização 
+- Botstrap e Tailwind
+
+### Sobre mim:
 
 - 🎓 Formação: Informatica IFMT Instituto Federal de Mato Grosso
 
@@ -15,6 +24,6 @@ Meu nome é João Alfredo, e estou em busca de oportunidades. Atualmente, estou 
 ### Contato:
 
 - Email: jaoalfrdo@gmail.com
-- instagram:   
+- instagram: https://www.instagram.com/jao.php
   
-Estou sempre aberto(a) a novas oportunidades, colaborações e conversas interessantes! Fique à vontade para entrar em contato.
+
