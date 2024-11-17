@@ -11,7 +11,7 @@ Meu nome é João Alfredo, e estou em busca de oportunidades. Atualmente, estou 
 - Framework utilizado no momento: Laravel
 
 ### Biblioteca de estilização 
-- Botstrap e Tailwind
+- Bootstrap, Tailwind e React
 
 ### Sobre mim:
 
